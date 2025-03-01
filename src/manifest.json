@@ -1,5 +1,6 @@
 {
-  "name": "小兔鲜儿",
+  "name": "uniapp-shop",
+//  应用标识，由 DCloud 云端分配。（安卓、iOS）
   "appid": "",
   "description": "",
   "versionName": "1.0.0",
@@ -50,7 +51,8 @@
   "quickapp": {},
   /* 小程序特有相关 */
   "mp-weixin": {
-    "appid": "",
+    // 微信小程序的 appid
+    "appid": "wx7c2feb115e8bba25",
     "setting": {
       "urlCheck": false
     },
