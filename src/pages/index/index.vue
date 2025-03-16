@@ -21,6 +21,7 @@ const getHomeCategoryData = async () => {
 // 页面加载
 onLoad(() => {
   getHomeBannerData()
+  getHomeCategoryData()
 })
 </script>
 
