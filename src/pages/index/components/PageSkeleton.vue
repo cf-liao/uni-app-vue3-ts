@@ -1,6 +1,6 @@
 <template name="skeleton">
   <view class="sk-container">
-    <view is="components/XtxSwiper" style="height: 160px; z-index: 1">
+    <view is="components/XtxSwiper" style="height: 280rpx; z-index: 1">
       <view class="carousel XtxSwiper--carousel">
         <swiper :circular="true" :interval="3000" :current="0" :autoplay="false">
           <swiper-item
